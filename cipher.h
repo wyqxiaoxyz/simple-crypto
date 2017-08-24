@@ -26,6 +26,9 @@ class Cipher : public QObject
 	Q_OBJECT
 public:
 	explicit Cipher(QObject *parent = 0);
+
+
+	
 signals:
 
 public slots:
